@@ -1,1 +1,1 @@
-# my-first-web-scraping
+# my-first-web-scraping-project
